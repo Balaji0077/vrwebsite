@@ -1,0 +1,339 @@
+.banner-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    color: white;
+    font-size: 70px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.banner-button {
+    color: white;
+    height: 54px;
+    width: 160px;
+    background-color: #1a2137;
+    font-size: 24px;
+    padding: 8px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.nav-icon {
+    height: 40px;
+    width: 60px;
+}
+
+#nav-item1 {
+    color: #323f4b;
+    font-family: "Roboton";
+
+}
+
+#nav-item2 {
+    color: #323f4b;
+    font-family: "Roboton";
+}
+
+#nav-item3 {
+    color: #323f4b;
+    font-family: "Roboton";
+}
+
+#nav-item4 {
+    color: #323f4b;
+    font-family: "Roboton";
+}
+
+.vr-features {
+    background-color: white;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.special {
+    font-weight: 900;
+    font-style: italic;
+    color: #1f2933;
+
+}
+
+.vr-f-card {
+    background-color: white;
+
+}
+
+.vr-image {
+    width: 80px;
+}
+
+.vr-f-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.vr-p-head {
+    font-size: 25px;
+}
+
+.vr-f-heading {
+    color: #1f2933;
+    font-weight: bolder;
+    font-size: 32px;
+    font-family: "Roboton";
+
+}
+
+.VR-website-kit {
+    background-color: #f9fbfe;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.VR-website-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.VR-website-img {
+    width: 70%;
+}
+
+.VR-website-para {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.vr-optics {
+    background-color: white;
+    border-color: #7b8794;
+
+}
+
+.vr-opt-img {
+    width: 100%;
+}
+
+.vr-opt-head {
+    font-family: "Roboto";
+    font-weight: bolder;
+    font-size: 34px;
+}
+
+.vr-opt-btn {
+    background-color: #1a2137;
+    color: white;
+    padding: 8px;
+    width: 120px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.vr-opt-para {
+    color: #7b8794;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.VR-contact-us {
+    background-color: #222b36;
+
+}
+
+.Vr-contact-us-head {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 34px;
+    text-align: center;
+}
+
+.vr-us-img {
+    width: 300px;
+}
+
+.Vr-us-button {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    padding: 8px;
+    font-family: "Roboto";
+}
+
+.Trending-blogs {
+    background-color: white;
+}
+
+.t-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.div-img {
+    width: 100%;
+}
+
+.div-card {
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-width: 1px;
+    border-color: #959ead;
+}
+
+.div-heading {
+    color: #959ead;
+    font-size: 15px;
+}
+
+.div-para {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.div-btn {
+    background-color: #1754a1;
+    color: white;
+    padding: 10px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.link-p {
+    color: #1754a1;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.website-product-section {
+    background-color: white;
+}
+
+.wps-header {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.wps-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+#wps-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+}
+
+.wps-heading {
+    color: white;
+    font-family: "Roboto"
+}
+
+.wps-para {
+    color: white;
+    font-size: 22px;
+}
+
+.wps-btn {
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    border-style: solid;
+    border-color: white;
+    padding: 3px;
+}
+
+.wps-end-btn {
+    background-color: #1754a1;
+    padding: 10px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 148px;
+    border-width: 0px;
+    border-radius: 3px;
+}
+
+.vr-footer {
+    background-color: #19232d;
+}
+
+.vr-footer-img {
+    height: 50px;
+}
+
+.icon {
+    font-size: 28px;
+    color: #5a7184;
+}
+
+.bg-footer {
+    background-color: #202b36;
+    margin-top: 14px;
+    margin-right: 12px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 14px;
+    padding-bottom: 10px;
+
+}
+
+.footer-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 13px;
+}
+
+.detail-head {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.detail-icon {
+    color: #5a7184;
+    font-size: 24px;
+    margin-right: 16px;
+}
+
+.footer-icon {
+    color: #5a7184;
+    font-size: 24px;
+}
+
+.detail-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.line {
+    border-color: #5a7184;
+    border-width: 2px;
+}
+
+.copy-right {
+    color: #959ead;
+    font-size: 20px;
+}
